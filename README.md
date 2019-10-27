@@ -1,3 +1,22 @@
+This project relies on https://github.com/crsandeep/simple-react-full-stack as a basis.
+
+These are the steps to get started:
+# Install node and npm:
+curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+sudo apt-get install -y nodejs
+
+# Check:
+node --version && npm --version
+
+# Install VScode: 
+https://go.microsoft.com/fwlink/?LinkID=760868
+
+# In VScode, go to marketplace and install ESLint and Prettier
+
+
+
+
+
 # simple-react-full-stack
 
 [![Build Status](https://travis-ci.org/crsandeep/simple-react-full-stack.svg?branch=master)](https://travis-ci.org/crsandeep/simple-react-full-stack)
