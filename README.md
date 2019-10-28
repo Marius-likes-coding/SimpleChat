@@ -1,21 +1,28 @@
+# SimpleChat
+
 This project relies on https://github.com/crsandeep/simple-react-full-stack as a basis.
 
 These are the steps to get started:
-# Install node and npm:
+
+## Install node and npm:
+
 curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 sudo apt-get install -y nodejs
 
-# Check:
+## Check:
+
 node --version && npm --version
 
-# Install VScode: 
+## Install VScode:
+
 https://go.microsoft.com/fwlink/?LinkID=760868
 
-# In VScode, go to marketplace and install ESLint and Prettier
+## In VScode, go to marketplace and install ESLint and Prettier, and Simple React Snippets.
 
+## Go to File->Preferences->Settings type
 
-
-
+- editor.formatOnSave and check the box.
+- javascript.suggestionActions.enabled and uncheck the box.
 
 # simple-react-full-stack
 
