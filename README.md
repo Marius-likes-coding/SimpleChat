@@ -6,12 +6,16 @@ These are the steps to get started:
 
 ## Install node and npm:
 
+```bash
 curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 sudo apt-get install -y nodejs
+```
 
 ## Check:
 
+```bash
 node --version && npm --version
+```
 
 ## Install VScode:
 
@@ -21,8 +25,8 @@ https://go.microsoft.com/fwlink/?LinkID=760868
 
 ## Go to File->Preferences->Settings type
 
-- editor.formatOnSave and check the box.
-- javascript.suggestionActions.enabled and uncheck the box.
+- `editor.formatOnSave` and check the box.
+- `javascript.suggestionActions.enabled` and uncheck the box.
 
 # simple-react-full-stack
 
